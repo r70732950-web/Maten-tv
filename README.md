@@ -1,2 +1,0 @@
-# Maten-tv
-Tv hurd
